@@ -26,7 +26,7 @@ Algorithm contains 2 steps:
 2. Fill 6 tickets (15 numbers and 12 blanks)
  
 
-##BE
+#BE
 Java 11
 Maven
 lombok
