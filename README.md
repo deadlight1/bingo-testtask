@@ -21,16 +21,19 @@ Try to also think about the performance aspects of your solution. How long does 
 The recommended time is less than 1s (with a lightweight random implementation)
 
 ##Algorithm explanation
+
 Algorithm contains 2 steps:
 1. Generate list with unique numbers from 1 to 90
 2. Fill 6 tickets (15 numbers and 12 blanks)
  
 
 #BE
+
 Java 11
 Maven
 lombok
 JUnit 5
 
 ##How to build
+
 Use maven "install" command
